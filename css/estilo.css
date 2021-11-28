@@ -257,6 +257,10 @@ background-color: #BEE3DB;
     display: flex;
     justify-content: space-around;
 }
+.pieNav li:hover {
+    font-size: 20px;
+    transform: translate(0px, -10px);
+}
 .pieRedes {
     grid-area: redes;
     display: flex;
